@@ -34,7 +34,11 @@ section{
 }
 
 .logo {
-    margin: 10px;
+    margin: 12px;
+}
+
+.texto {
+    margin-left: -8px;
 }
 
 .logo:nth-child(1){
