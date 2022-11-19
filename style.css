@@ -33,10 +33,18 @@ section{
     display: flex;
 }
 
+.logo {
+    margin: 10px;
+}
+
 .logo:nth-child(1){
     transition-delay: 100ms;
 }
 
 .logo:nth-child(2){
     transition-delay: 250ms;
+}
+
+.logo:nth-child(3){
+    transition-delay: 400ms;
 }
