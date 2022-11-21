@@ -35,10 +35,8 @@ section{
 
 .logo {
     padding: 20px;
-}
-
-.texto {
-    margin-left: -8x;
+    width: 5rem;
+    text-align: center;
 }
 
 .logo:nth-child(1){
